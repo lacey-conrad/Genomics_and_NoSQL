@@ -1,0 +1,1358 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xml:base="http://purl.uniprot.org/taxonomy/" xmlns="http://purl.uniprot.org/core/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+<owl:Ontology rdf:about="http://purl.uniprot.org/taxonomy/">
+<owl:imports rdf:resource="http://purl.uniprot.org/core/"/>
+</owl:Ontology>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Taxon"/>
+<rank rdf:resource="http://purl.uniprot.org/core/Species"/>
+<replaces rdf:resource="http://purl.uniprot.org/taxonomy/85055"/>
+<mnemonic>MOUSE</mnemonic>
+<scientificName>Mus musculus</scientificName>
+<commonName>Mouse</commonName>
+<otherName>LK3 transgenic mice</otherName>
+<otherName>Mus musculus Linnaeus, 1758</otherName>
+<otherName>Mus sp. 129SV</otherName>
+<otherName>house mouse</otherName>
+<otherName>mice C57BL/6xCBA/CaJ hybrid</otherName>
+<otherName>nude mice</otherName>
+<otherName>transgenic mice</otherName>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-020"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C6C0BC6EB52750C1AFEDB02A8B6A7B6A"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129%2FReJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-A33551F8AB37F80C34F2CA0C24947137"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-761646CE2A8D76B781C7961D307DFF3B"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvCp"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvEv"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvEvTacfBr"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvHe"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-D031F83CA4FF9686CFA5B8BE15A75CAA"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-3934C355625B71EA22C0AF5A7FB72980"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvSl"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-27AEDD6A7C62D44ED62DA181F9A3A5A5"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129S1%2FSv"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-711D41CCBE851FFF78F2F457B4FAE2ED"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-129S4%2FSvJae"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-7224AFDD99B946141313C18152C98352"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-A.CA"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-6C7D0DC54D8F43DA9D5C132AA319ECA1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-A%2FWy"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-AB1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-00FF18A298AAC89EA5110247B3578504"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-E7B1C308CEC54C6D41C402397060D314"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B8A6CB6F58405D7AF58D958146950325"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B10.A"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B5%2FEGFP"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B6CBAF2"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20AnCr"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20X%20CD-1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20X%20DBA%2F2"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20X%20NZB"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-F1FE1D7B7C7DAD4A0644F4F69589D28A"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2FcAn"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2FcByJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-E22CF3EAE69BADDC767AF684ABB2BF2B"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BEAD99B0CE134DF3622B20A74B04BBB0"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-71C3E58D58B9707712788A0F59EA04A2"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BFM"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-742898A0CF46CAB4A02E2F3B3CB600A9"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-846F98C7585627FB52C932575E0A5A52"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BXSB"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BXSB%2FMpJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3B10RF1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-488C8B106E5F2A0B5EB86025D9B978B3"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-8E72C020009D81EB1D26C79E50370917"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2F21BG"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FAn"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FE1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FHe"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-6FB143ADE2B8AE25168D2B3A5BD4A427"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FHeJBir"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FHeN"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-752F89669B9A8D5A40A7219990C3010B"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FMai"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FRV"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C3HF"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-074C3E0B1C8A081E400702350CACEFDB"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57B16%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B113B9E3F4100D546CBFBF0B51D1E825"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F10%20X%20DBA"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-67C3B14387BF4D4975ABCA33981D9288"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C275891C4716B57B61114B1520D07A08"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-24EF61A626939B70BF0B2AA4233C0C8F"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F10SN"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B3F6791437D15DFC3763FB557960562F"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-1CDB6394800BCF3A03082B63B90493C3"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-6356CF680F8B1C9BEA08DBDD97D6BE6D"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-AE89545AC04AEF4C2DB4F434ECFB6A8B"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-78E2E7EB103F4B6FFCE9A8C429D4E0F8"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-90C8B062B14D90B8D8A25F155BF3934B"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-527C63A8ECFA6FA32E466CDC0D3E3846"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-18C584057048E71978385A8184FCDD19"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C1589311472B4902350CF4D7DAEF34E0"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6%20X%20CBA%2FN"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-9327E49FD04857B05B7D2F032F6AFBB0"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-6398BBD0AB61DE74F200E79C66FDF2C0"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-62D69DB0A361E0C15A7C3BDBED32B027"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-76686C8A83E6250A19D5CCD80574E400"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6By"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6ByJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6Cr"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6CrSlc"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-9434FB4F3DE1D45FC3325AF9BD653A90"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-D108F05F35A4484EBA1119E0D35E4311"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-625A9B47CB9618E6ABF9699350A09F84"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-D74DD24AC8FD8BAA904F3592977D876A"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6J%20X%20DBA"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-44D28768BBD78BFE939DE4A6D88D352B"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-7C56FE1D14F3343CE1E1FA51FDB216CC"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6N"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6NCr"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-EFCCF91559E0FACC30851EAA6480D49F"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6NJcl"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6NTac"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-2203158092C57735ADEC6CD582F0A6C1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B4DEF56C318CF4AC19B0D4D6C0691DBA"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2FOla"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B998066E17479C3AA6C17DEDF8FE0055"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-DF69F245866A1F87D6EEC004BEF8470F"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C58%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CB-17%2FSCID"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CBA%20X%20NMRI"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C8EDA8325FBC2C42E3A93C7DC5F50373"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-482C183C0D934C693ABC761CFF5B0311"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C395794529F5F54D866343840BC4FEE6"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CD-1%20X%20129%2FSv"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CD-1%20X%20129%2FSvJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-23239DC6628FB4815AD52E21310F2195"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B411AAEAA5C017B975DB7FB1A9B78CA7"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CF-1%20%2F%20Harlan"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-788E667CA9179A2BF76EEEA0F6E42379"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CRO435"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CTS"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Czech%20II"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C972115CCBDAF9DEE7CA8D952A1387DC"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-DBA%2F1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-7366250DF8CC4798F635E820D24A8662"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-D78D5547037B801B9234EC6CE79E0BC7"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-DBA%2F2N"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-DDD"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-DW%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-EL%2FSuz"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-FVB%2F10"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-0C6AA3ACD666D78ABC4804A02E44F665"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-FVB%2FN-3"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-3670B8044404949889241CDDB9C46E3E"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-5B6EDE77FF25FF2BCAF5BF017B340F65"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-HS%2FIBG"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Hos%2FHR-1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-A8C02AD6013FF66E9EAB7CC9028D2DBA"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-ICR"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-2F00E78383224D38223DDAD64FD9ACDC"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-ILS"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-IS%2FCamEi"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-ISS"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Japanese%20fancy"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-KK%20Obese"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-KM"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Kunming"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Kunmingbai"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-L129"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-LAF1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-AB62FAB9E6D230BE739EB05E3D5441D3"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-14082A3D5F902ECFB33174F828FC8719"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-LS%2FIBG"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Leaden%20X%20A1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-D2EB520E069ACEEFF90AA80AF92A9F41"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-MA%2FM4J"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-MF1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-7E8F39C74DB297A4200DD74F7B05B30C"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-239196498A62764FCE82286D52833810"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-MSM%2FMs"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Mae%2FStm"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-NFS"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-NIH%20Black%20Swiss"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BBCF7F1D7C57C1E83298C10043ED7D1E"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-60AC7B0D0EE013ADD1B08D8C7E629F5A"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-766E211E3CD9FFB88935DC92C46113BE"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-NMRI%20X%20129"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-1A541786939CBC8C9E977074C16E7DE4"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-NOD.B6"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-NOD%2FLtJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-NOD%2FMrkTac"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B206FA995B1DADE0E28440716A567373"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-2582895B4CA38FAD9FFB0E5CA323988F"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-NZB%2FBlNJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-9001805C3632AAA31B1AAD3BE2EA3CA0"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BE09431FB9486E0275605704D4293118"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-OF1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-6ADC76140E7D687B7961B217E5A49B23"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-PL%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-PRM%2FAlf"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-PRO%2FRe"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-PWK"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-1D31778F14773AFAE3814B6ADF076F3B"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-RF%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-RIII"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Rockefeller"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-495C0E4734F4D4B80EC965166F2DC6F8"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-E2E5EF53FDC6F2934225AB1AD90B59F4"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CB1686241B08342DB56577B04C49AF2A"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-03361BEB41B289833D9C63708FAE1057"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-SJL%2FJHanHsd"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-6339A7981257FE5B4B53946E901447EE"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-SRB"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-ST%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-ST%2FbJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-E8271B05D2E3999C5F5D5C20007E214C"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Sencar"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-AB2DE0240560EB47FD28BBEF59A82748"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-6DFFFE9E09A360CDE08D042523FDED86"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-D9521CC2EA7138866674859959B85365"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-TG3"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-TKDU"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-VM"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-W%2FWv"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-WAG%2FRij"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-Webster"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-91C9D67C6BFE61569D0D1835007643FE"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-ddY"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20X%20CBA"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-NIH%2F3T3"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-9AED08695E7FE3A9BCA00F1414BDACE1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-D8E38CE2A7105CC6D1D9978E21680AB3"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-A%2FSn"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-TW2"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B10.PL"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C49BB86D178C7DA90E18AA651E4912EE"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-327483551C889CC883821E5895573038"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-CASA%2FRkJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B976CCF9F0E1013E04016A903CA93900"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-736F63536606BC4C14EF60522E08F821"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-P%2FJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-044B8AADF81A9A6EC646D01F36CF91B1"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-PWK%2FPhJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6JRj"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-B10.BR"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-WSB%2FEiJ"/>
+<strain rdf:resource="http://purl.uniprot.org/taxonomy/10090#strain-PWD%2FPhJ"/>
+<rdfs:seeAlso rdf:resource="http://animaldiversity.org/site/accounts/information/Mus_musculus.html"/>
+<rdfs:seeAlso rdf:resource="http://brainmuseum.org/specimens/rodentia/mouse/"/>
+<rdfs:seeAlso rdf:resource="http://digimorph.org/specimens/Mus_musculus/"/>
+<rdfs:seeAlso rdf:resource="http://kars.ku.edu/media/kufs/libres/Mammals_of_Kansas/mus-musc.html"/>
+<rdfs:seeAlso rdf:resource="http://www.iucngisd.org/gisd/species.php?sc=97"/>
+<rdfs:seeAlso rdf:resource="https://calphotos.berkeley.edu/cgi-bin/img_query?where-taxon=Mus+musculus"/>
+<rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Mus_musculus"/>
+<rdfs:seeAlso rdf:resource="https://www.biolib.cz/en/taxon/id20625/"/>
+<rdfs:seeAlso rdf:resource="https://www.cabi.org/isc/datasheet/35218"/>
+<rdfs:seeAlso rdf:resource="https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=13001562"/>
+<rdfs:seeAlso rdf:resource="https://www.gbif.org/species/7429082"/>
+<rdfs:seeAlso rdf:resource="https://www.qm.qld.gov.au/Find+out+about/Animals+of+Queensland/Mammals/Common+mammals+of+south-east+Queensland/Rats+and+Mice/House+Mouse"/>
+<rdfs:seeAlso rdf:resource="https://www.uwsp.edu/biology/VertebrateCollection/Pages/Vertebrates/Mammals%20of%20Wisconsin/Mus%20musculus/Mus%20musculus.aspx"/>
+<foaf:depiction rdf:resource="https://upload.wikimedia.org/wikipedia/commons/a/ab/House_mouse.jpg"/>
+<rdfs:subClassOf rdf:resource="http://purl.uniprot.org/taxonomy/862507"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/10091"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/10092"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/35531"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/39442"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/46456"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/57486"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/80274"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/116058"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/179238"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/477815"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/477816"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/947985"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/1266728"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/1385377"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/1643390"/>
+<skos:narrowerTransitive rdf:resource="http://purl.uniprot.org/taxonomy/1879032"/>
+<partOfLineage rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</partOfLineage>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-020">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>020</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C6C0BC6EB52750C1AFEDB02A8B6A7B6A">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/Ola</name>
+<name>129 Ola</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129%2FReJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/ReJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-A33551F8AB37F80C34F2CA0C24947137">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/Sv</name>
+<name>129 SV</name>
+<name>129Sv</name>
+<name>SV129</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-761646CE2A8D76B781C7961D307DFF3B">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/Sv X 129SvCp</name>
+<name>129/Sv X 129/Sv-CP</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvCp">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/SvCp</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvEv">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/SvEv</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvEvTacfBr">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/SvEvTacfBr</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvHe">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/SvHe</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-D031F83CA4FF9686CFA5B8BE15A75CAA">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/SvImJ</name>
+<name>129Sv/ImJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-3934C355625B71EA22C0AF5A7FB72980">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/SvJ</name>
+<name>129-SVJ</name>
+<name>129SJ</name>
+<name>129Sv/J</name>
+<name>129SvJ</name>
+<name>129X1/SvJ</name>
+<name>129vj</name>
+<name>Sv129J</name>
+<name>SvJ/129</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129%2FSvSl">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129/SvSl</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-27AEDD6A7C62D44ED62DA181F9A3A5A5">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129P2</name>
+<name>129/OlaHsd</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129S1%2FSv">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129S1/Sv</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-711D41CCBE851FFF78F2F457B4FAE2ED">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129S2/SvPas</name>
+<name>129S2</name>
+<name>129SvPas</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-129S4%2FSvJae">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129S4/SvJae</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-7224AFDD99B946141313C18152C98352">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129S6/SvEvTac</name>
+<name>129/SvEvTac</name>
+<name>129S6</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-A.CA">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>A.CA</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-6C7D0DC54D8F43DA9D5C132AA319ECA1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>A/J</name>
+<name>AJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-A%2FWy">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>A/Wy</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-AB1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>AB1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-00FF18A298AAC89EA5110247B3578504">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>AKR/J</name>
+<name>AKR</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-E7B1C308CEC54C6D41C402397060D314">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ALR/Lt</name>
+<name>Alloxan Resistance</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B8A6CB6F58405D7AF58D958146950325">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ALS/Lt</name>
+<name>Alloxan Susceptibility</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B10.A">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>B10.A</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B5%2FEGFP">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>B5/EGFP</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B6CBAF2">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>B6CBAF2</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20AnCr">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/c AnCr</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20X%20CD-1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/c X CD-1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20X%20DBA%2F2">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/c X DBA/2</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20X%20NZB">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/c X NZB</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-F1FE1D7B7C7DAD4A0644F4F69589D28A">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/c x BALB.B</name>
+<name>(BALB/c x BALB.B) F1</name>
+<name>BALB/c x BALB.B F1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2FcAn">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/cAn</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2FcByJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/cByJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-E22CF3EAE69BADDC767AF684ABB2BF2B">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/cCrSlc</name>
+<name>BALB/c Cr Slc</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BEAD99B0CE134DF3622B20A74B04BBB0">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/cJ</name>
+<name>BALB-C</name>
+<name>BALB/c</name>
+<name>BALBc</name>
+<name>C</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-71C3E58D58B9707712788A0F59EA04A2">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BDF1</name>
+<name>BDF-1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BFM">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BFM</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-742898A0CF46CAB4A02E2F3B3CB600A9">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BTBR T+ tf/J</name>
+<name>BTBR</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-846F98C7585627FB52C932575E0A5A52">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BXH2</name>
+<name>BXH-2</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BXSB">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BXSB</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BXSB%2FMpJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BXSB/MpJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3B10RF1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3B10RF1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-488C8B106E5F2A0B5EB86025D9B978B3">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H X 101</name>
+<name>C3Hx101</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-8E72C020009D81EB1D26C79E50370917">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H X 102</name>
+<name>C3Hx102</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2F21BG">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/21BG</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FAn">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/An</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FE1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/E1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FHe">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/He</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-6FB143ADE2B8AE25168D2B3A5BD4A427">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/HeJ</name>
+<name>C3</name>
+<name>C3H</name>
+<name>C3H Heston</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FHeJBir">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/HeJBir</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FHeN">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/HeN</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-752F89669B9A8D5A40A7219990C3010B">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/HeSn</name>
+<name>C3H Heston Snell</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FMai">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/Mai</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3H%2FRV">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3H/RV</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C3HF">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3HF</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-074C3E0B1C8A081E400702350CACEFDB">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C3Heb/FeJ</name>
+<name>C3Fe</name>
+<name>C3H Fekete</name>
+<name>C3HFe</name>
+<name>HeB</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57B16%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57B16/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B113B9E3F4100D546CBFBF0B51D1E825">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/10</name>
+<name>B10</name>
+<name>C57BL10</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F10%20X%20DBA">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/10 X DBA</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-67C3B14387BF4D4975ABCA33981D9288">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/10 X DBA/2</name>
+<name>B10.D2</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C275891C4716B57B61114B1520D07A08">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/10J</name>
+<name>C57BL10J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-24EF61A626939B70BF0B2AA4233C0C8F">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/10ScNJ</name>
+<name>C57BL/10SCN</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F10SN">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/10SN</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B3F6791437D15DFC3763FB557960562F">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X 129</name>
+<name>129 X C57BL/6</name>
+<name>C57BL/6x129</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-1CDB6394800BCF3A03082B63B90493C3">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X 129/Ola</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-6356CF680F8B1C9BEA08DBDD97D6BE6D">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X 129/Sv</name>
+<name>129/Sv X C57BL/6</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-AE89545AC04AEF4C2DB4F434ECFB6A8B">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X 129/SvJ</name>
+<name>129/SvJ X C57BL/6</name>
+<name>C57BL/6 x 129SvJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-78E2E7EB103F4B6FFCE9A8C429D4E0F8">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X BALB/c</name>
+<name>BALB/c X C57BL/6</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-90C8B062B14D90B8D8A25F155BF3934B">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X C3H</name>
+<name>B6C3F1</name>
+<name>B6C3Fe-a</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-527C63A8ECFA6FA32E466CDC0D3E3846">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X CBA</name>
+<name>B6 X CBA</name>
+<name>B6/CBA</name>
+<name>B6/CBAF1J</name>
+<name>B6/CBAFIJ</name>
+<name>B6CBA</name>
+<name>C57B6/CBA F1</name>
+<name>C57BL/6xCBAF1</name>
+<name>C57BL6 X CBA</name>
+<name>C57Black6 X CBA</name>
+<name>CBA X C57BL/6</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-18C584057048E71978385A8184FCDD19">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X CBA/Ca</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C1589311472B4902350CF4D7DAEF34E0">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X CBA/CaJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6%20X%20CBA%2FN">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X CBA/N</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-9327E49FD04857B05B7D2F032F6AFBB0">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X DBA/2</name>
+<name>B6D2</name>
+<name>B6D2 F1/J</name>
+<name>B6D2F1</name>
+<name>B6D2F1/J</name>
+<name>DBA/2 X C57BL/6</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-6398BBD0AB61DE74F200E79C66FDF2C0">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X DBA/2J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-62D69DB0A361E0C15A7C3BDBED32B027">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 X SJL</name>
+<name>B6SJLF1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-76686C8A83E6250A19D5CCD80574E400">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6 x NIH Black Swiss</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6By">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6By</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6ByJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6ByJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6Cr">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6Cr</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6CrSlc">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6CrSlc</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-9434FB4F3DE1D45FC3325AF9BD653A90">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6J</name>
+<name>B6</name>
+<name>B6J</name>
+<name>Bl6J</name>
+<name>Black 6</name>
+<name>C56BL/6J</name>
+<name>C57</name>
+<name>C57 Black</name>
+<name>C57 Black/6</name>
+<name>C57/B6</name>
+<name>C57/BL6</name>
+<name>C57/BL6J</name>
+<name>C57B/6</name>
+<name>C57BL/6</name>
+<name>C57BL/J6</name>
+<name>C57BL6</name>
+<name>C57BL6/J</name>
+<name>C57BL6J</name>
+<name>C57Bl</name>
+<name>C57Bl\6</name>
+<name>C57Black</name>
+<name>C57Black6</name>
+<name>CB57</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-D108F05F35A4484EBA1119E0D35E4311">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6J X 129/SvEv</name>
+<name>129/SvEv X C57BL/6J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-625A9B47CB9618E6ABF9699350A09F84">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6J X 129/SvJ</name>
+<name>129/SvJ X C57BL/6J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-D74DD24AC8FD8BAA904F3592977D876A">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6J X CBA/J</name>
+<name>B6CBAF1/J</name>
+<name>C57 Black/6 X CBA</name>
+<name>C57BL/6 X CBA/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6J%20X%20DBA">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6J X DBA</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-44D28768BBD78BFE939DE4A6D88D352B">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6J X DBA/2</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-7C56FE1D14F3343CE1E1FA51FDB216CC">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6J x SJL/J</name>
+<name>C57BL/6J x SJL/J F1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6N">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6N</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6NCr">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6NCr</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-EFCCF91559E0FACC30851EAA6480D49F">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6NCrj</name>
+<name>C57Black/6NCrj</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6NJcl">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6NJcl</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6NTac">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6NTac</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-2203158092C57735ADEC6CD582F0A6C1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/Kaplan</name>
+<name>C57BL Kaplan</name>
+<name>C57BL/Ka</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B4DEF56C318CF4AC19B0D4D6C0691DBA">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BLKS/J</name>
+<name>BKS</name>
+<name>Black Kaliss J</name>
+<name>C57 Kaliss</name>
+<name>C57BL/Ks</name>
+<name>C57BL/KsJ</name>
+<name>C57BLKs</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2FOla">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/Ola</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B998066E17479C3AA6C17DEDF8FE0055">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BR/cdJ</name>
+<name>BR</name>
+<name>Brown cd</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-DF69F245866A1F87D6EEC004BEF8470F">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57L/J</name>
+<name>C57 Brown</name>
+<name>C57 Leaden</name>
+<name>L</name>
+<name>Leaden</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C58%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C58/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CB-17%2FSCID">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CB-17/SCID</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CBA%20X%20NMRI">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CBA X NMRI</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C8EDA8325FBC2C42E3A93C7DC5F50373">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CBA/CaJ</name>
+<name>CBA Carter J</name>
+<name>CBA/Ca</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-482C183C0D934C693ABC761CFF5B0311">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CBA/J</name>
+<name>CBA</name>
+<name>CBA Jackson</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C395794529F5F54D866343840BC4FEE6">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CD-1</name>
+<name>CD1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CD-1%20X%20129%2FSv">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CD-1 X 129/Sv</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CD-1%20X%20129%2FSvJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CD-1 X 129/SvJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-23239DC6628FB4815AD52E21310F2195">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CD-1 X ICR</name>
+<name>CD1 ICR</name>
+<name>CD1-ICR</name>
+<name>CDI-ICR</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B411AAEAA5C017B975DB7FB1A9B78CA7">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CF-1</name>
+<name>CF1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CF-1%20%2F%20Harlan">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CF-1 / Harlan</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-788E667CA9179A2BF76EEEA0F6E42379">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CFW</name>
+<name>Carworth Farm Webster</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CRO435">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CRO435</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CTS">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CTS</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Czech%20II">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Czech II</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C972115CCBDAF9DEE7CA8D952A1387DC">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>DBA</name>
+<name>Dilute Brown Aguti</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-DBA%2F1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>DBA/1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-7366250DF8CC4798F635E820D24A8662">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>DBA/1LacJ</name>
+<name>D1Lac</name>
+<name>DBA1 Lac</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-D78D5547037B801B9234EC6CE79E0BC7">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>DBA/2J</name>
+<name>D2</name>
+<name>D2J</name>
+<name>DBA/2</name>
+<name>DBA2</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-DBA%2F2N">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>DBA/2N</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-DDD">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>DDD</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-DW%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>DW/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-EL%2FSuz">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>EL/Suz</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-FVB%2F10">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>FVB/10</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-0C6AA3ACD666D78ABC4804A02E44F665">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>FVB/N</name>
+<name>FVBN</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-FVB%2FN-3">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>FVB/N-3</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-3670B8044404949889241CDDB9C46E3E">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>FVB/NJ</name>
+<name>FVB</name>
+<name>Friend Virus B NIH Jackson</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-5B6EDE77FF25FF2BCAF5BF017B340F65">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>GR/J</name>
+<name>GR/A</name>
+<name>GRS</name>
+<name>GRS/A</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-HS%2FIBG">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>HS/IBG</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Hos%2FHR-1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Hos/HR-1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-A8C02AD6013FF66E9EAB7CC9028D2DBA">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>I/LnJ</name>
+<name>I Lyon</name>
+<name>I/FnLn</name>
+<name>I/Lyn</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-ICR">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ICR</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-2F00E78383224D38223DDAD64FD9ACDC">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ICR X Swiss Webster</name>
+<name>ICR Swiss</name>
+<name>ICR X Swiss</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-ILS">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ILS</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-IS%2FCamEi">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>IS/CamEi</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-ISS">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ISS</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Japanese%20fancy">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Japanese fancy</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-KK%20Obese">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>KK Obese</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-KM">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>KM</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Kunming">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Kunming</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Kunmingbai">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Kunmingbai</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-L129">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>L129</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-LAF1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>LAF1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-AB62FAB9E6D230BE739EB05E3D5441D3">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>LG/J</name>
+<name>Large</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-14082A3D5F902ECFB33174F828FC8719">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>LP/J</name>
+<name>LP</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-LS%2FIBG">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>LS/IBG</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Leaden%20X%20A1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Leaden X A1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-D2EB520E069ACEEFF90AA80AF92A9F41">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Long sleep selected line</name>
+<name>LS</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-MA%2FM4J">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>MA/M4J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-MF1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>MF1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-7E8F39C74DB297A4200DD74F7B05B30C">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>MOLF/EiJ</name>
+<name>MOLF/Ei</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-239196498A62764FCE82286D52833810">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>MRL/MpJ</name>
+<name>MRL</name>
+<name>Murphy Roths Large</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-MSM%2FMs">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>MSM/Ms</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Mae%2FStm">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Mae/Stm</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-NFS">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NFS</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-NIH%20Black%20Swiss">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NIH Black Swiss</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BBCF7F1D7C57C1E83298C10043ED7D1E">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NIH Swiss</name>
+<name>NIH</name>
+<name>NIH-Swiss</name>
+<name>NIH/Swiss</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-60AC7B0D0EE013ADD1B08D8C7E629F5A">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NJL</name>
+<name>NJL/Ms</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-766E211E3CD9FFB88935DC92C46113BE">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NMRI</name>
+<name>NMR1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-NMRI%20X%20129">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NMRI X 129</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-1A541786939CBC8C9E977074C16E7DE4">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NOD</name>
+<name>Nonobese diabetic</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-NOD.B6">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NOD.B6</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-NOD%2FLtJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NOD/LtJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-NOD%2FMrkTac">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NOD/MrkTac</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B206FA995B1DADE0E28440716A567373">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NSY</name>
+<name>Nagoya-Shibata-Yasuda</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-2582895B4CA38FAD9FFB0E5CA323988F">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NZB</name>
+<name>New Zealand black</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-NZB%2FBlNJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NZB/BlNJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-9001805C3632AAA31B1AAD3BE2EA3CA0">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NZO</name>
+<name>NZO/HlLtJ</name>
+<name>New Zealand obese</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BE09431FB9486E0275605704D4293118">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NZW/LacJ</name>
+<name>NZW</name>
+<name>New Zealand White</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-OF1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>OF1</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-6ADC76140E7D687B7961B217E5A49B23">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>PERA/Ei</name>
+<name>PERA/EiJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-PL%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>PL/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-PRM%2FAlf">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>PRM/Alf</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-PRO%2FRe">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>PRO/Re</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-PWK">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>PWK</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-1D31778F14773AFAE3814B6ADF076F3B">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Quakenbush inbred</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-RF%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>RF/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-RIII">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>RIII</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Rockefeller">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Rockefeller</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-495C0E4734F4D4B80EC965166F2DC6F8">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>SAMP8</name>
+<name>Senescence accelerated mouse P8</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-E2E5EF53FDC6F2934225AB1AD90B59F4">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>SB/LeJ</name>
+<name>satin beige</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CB1686241B08342DB56577B04C49AF2A">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>SEA/GnJ</name>
+<name>SEA/Gn</name>
+<name>sea Green</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-03361BEB41B289833D9C63708FAE1057">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>SJL/J</name>
+<name>SJL</name>
+<name>Swiss Jim Lambert</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-SJL%2FJHanHsd">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>SJL/JHanHsd</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-6339A7981257FE5B4B53946E901447EE">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>SM/J</name>
+<name>SM</name>
+<name>Small</name>
+<name>Small/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-SRB">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>SRB</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-ST%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ST/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-ST%2FbJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ST/bJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-E8271B05D2E3999C5F5D5C20007E214C">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>SWR/J</name>
+<name>SW</name>
+<name>Swiss</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Sencar">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Sencar</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-AB2DE0240560EB47FD28BBEF59A82748">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Swiss Webster</name>
+<name>Swiss-Webster</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-6DFFFE9E09A360CDE08D042523FDED86">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Swiss Webster / NIH</name>
+<name>Swiss Webster / NIH Swiss</name>
+<name>Swiss Webster/NIH</name>
+<name>Swiss-Webster/NIH</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-D9521CC2EA7138866674859959B85365">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Swiss albino</name>
+<name>Albino Swiss</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-TG3">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>TG3</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-TKDU">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>TKDU</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-VM">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>VM</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-W%2FWv">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>W/Wv</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-WAG%2FRij">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>WAG/Rij</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-Webster">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>Webster</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-91C9D67C6BFE61569D0D1835007643FE">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ZDF</name>
+<name>Zucker diabetic fatty</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-ddY">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>ddY</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-BALB%2Fc%20X%20CBA">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>BALB/c X CBA</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-NIH%2F3T3">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NIH/3T3</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-9AED08695E7FE3A9BCA00F1414BDACE1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CAST/EiJ</name>
+<name>CAST</name>
+<name>CAST/Ei</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-D8E38CE2A7105CC6D1D9978E21680AB3">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6By x BALB/cBy</name>
+<name>CXBK</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-A%2FSn">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>A/Sn</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-TW2">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>TW2</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B10.PL">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>B10.PL</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C49BB86D178C7DA90E18AA651E4912EE">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129S7/SvEvBrd-Hprt1b-m2</name>
+<name>129/SvEvBrd-Hprtb-m2</name>
+<name>129S7</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-327483551C889CC883821E5895573038">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129S5/SvEvBrd</name>
+<name>129/SvEvBrd</name>
+<name>129S5</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-CASA%2FRkJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>CASA/RkJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B976CCF9F0E1013E04016A903CA93900">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>NON/ShiLtJ</name>
+<name>NON/LtJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-736F63536606BC4C14EF60522E08F821">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>129S1/SvImJ</name>
+<name>129S1</name>
+<name>129S3/SvImJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-P%2FJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>P/J</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-044B8AADF81A9A6EC646D01F36CF91B1">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>VDF</name>
+<name>Vancouver diabetic fatty</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-PWK%2FPhJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>PWK/PhJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-C57BL%2F6JRj">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>C57BL/6JRj</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-B10.BR">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>B10.BR</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-WSB%2FEiJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>WSB/EiJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.uniprot.org/taxonomy/10090#strain-PWD%2FPhJ">
+<rdf:type rdf:resource="http://purl.uniprot.org/core/Strain"/>
+<name>PWD/PhJ</name>
+</rdf:Description>
+<rdf:Description rdf:about="https://upload.wikimedia.org/wikipedia/commons/a/ab/House_mouse.jpg">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+<width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</width>
+<height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">208</height>
+</rdf:Description>
+</rdf:RDF>
